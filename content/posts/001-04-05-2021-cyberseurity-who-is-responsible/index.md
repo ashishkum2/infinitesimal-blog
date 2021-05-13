@@ -1,11 +1,14 @@
 ---
-title: "Cybersecurity: Whose problem is it, anyways?"
+title: "Cybersecurity: Whose problem is it?"
 author: Ashish Kumar
 date: 2021-05-04
 hero: ./images/hero-1.png
-excerpt: Discussing various cybersecurity responsibilities owned by business, board, directors, employees and consumers. The post would explore the complex current world of technology, and why cybersecurity is an issue we can't ignore. Article would deconstruct from business and consumer perspective .
+excerpt: Discussing various cybersecurity responsibilities owned by business, board, directors, employees and consumers. The post would explore the complex current world of technology, and why cybersecurity is an issue we can't ignore. Article would explore cyber resposibilities from business and consumer perspective .
 ---
-Let’s look at some general problems of humanity as we evolved. About 70,000 years ago, homo sapiens were blessed with cognitive awakening. We started to become the dominant species and causing a material impact on this world. Though our problem was just survival and we were hunter-gatherers. Then about 10,000 years ago, the agricultural revolution did put us on a path of hyper-growth. We "invented" some cool stuff along such as social disorders, war, and poverty. Eventually, it was the scientific revolution that led us to the advent of the Internet. If questions of evolution and our future intrigue you then grab a copy of the book titled "Sapiens: A Brief History of Humankind" by Yuval Noah Harari.
+## Evolution of Cybersecurity
+Let’s look at some general problems of humanity as we evolved. About 70,000 years ago, homo sapiens were blessed with cognitive awakening. We started to become the dominant species and causing a material impact on this world. Though our problem was just survival and we were hunter-gatherers. Then about 10,000 years ago, the agricultural revolution did put us on a path of hyper-growth. We "invented" some cool stuff along such as social disorders, war, and poverty. Eventually, it was the scientific revolution that led us to the advent of the Internet and the perils of __*Cybersecurity*__.
+
+If questions of evolution and our future intrigue you then grab a copy of the book titled "Sapiens: A Brief History of Humankind" by Yuval Noah Harari.
 
 ## Human Attack Surface
 Capitalism and consumerism have given birth to many of the challenges we face today. Arguably, one of the fastest-growing issues is  Cybersecurity. In this article, I’ll try to deconstruct the accountability and ownership issues related to Cybersecurity. We'll touch upon some key questions such as — Who’re the responsible stakeholders? What responsibilities they own? and, What can we do better? I'm not going to delve too much into the concepts of Cybersecurity itself. The following info-graphic gives us a glimpse of how much vulnerable we are.
@@ -27,7 +30,7 @@ In the last decade, digital adoption by companies, organizations and governments
 
 ## Board, Director and Top Management's Role in Cybersecurity 
 
-Simply put, the board or board of directors have the responsibility of governing the organization. They provide strategic direction and purpose. Board works to preserve the interest of shareholders. For most boards, Cybersecurity is the elephant in the room. And even for the ones who acknowledge it, Cybersecurity is daunting and at times overwhelming. Unsurprisingly, there are still a lot who’d think this isn’t their problem. What they're not realizing is that it is not a question of if, but when. Although, things have improved a lot in the past decade. Many organizations now include Cybersecurity, in some form, as a strategic goal. But mostly the execution is plagued with wrong steps. Either it is an IT problem, or the board is left at mercy of IT to "educate" and "guide" them on Cybersecurity preparedness. It doesn’t have to be this way though. 
+Simply put, the board or board of directors have the responsibility of governing the organization. They provide strategic direction and purpose. Board works to preserve the interest of shareholders. For most boards, Cybersecurity is the elephant in the room. And even for the ones who acknowledge it, Cybersecurity is daunting and at times overwhelming. Unsurprisingly, there are still a lot who’d think this isn’t their problem. What they're not realizing is that it is not a question of if, but when. Though, things have improved a lot in the past decade. Many organizations now include Cybersecurity, in some form, as a strategic goal. But mostly the execution is plagued with wrong steps. Either it is an IT problem, or the board is left at mercy of IT to "educate" and "guide" them on Cybersecurity preparedness. It doesn’t have to be this way though. 
 
 __Cybersecurity is a governance problem. End of the day it is a business risk and should be managed so – call it Cyber Risk.__
 
@@ -42,7 +45,7 @@ If one wants to do things in an ideal manner, there are endless approaches and p
 
 When thinking about Cybersecurity, always start with your business objectives and goals. Conscientiously, factor for your assets, risks, processes, and compliance. People mostly think of Cybersecurity as a "protection" means, but it could be a massive business enabler. Getting GDPR compliance would likely support business expansions in new geographies. Or a cutting edge, biometric authentication could just be the right assurance needed by prospective customers of your wealth management platform. The board should be setting the direction for its technology teams. Your cybersecurity spending should trace back to your business objectives, else, you're doing something wrong.
 
-It is also worth realizing that cyber defence or cyber protection alone is only one side of the coin. What the board and management need to be additionally prepared for is cyber resilience!! How do we survive when a cyber crisis hits us? Some questions to be pondered upon, 
+It is also worth realizing that cyber defence or cyber protection alone is only one side of the coin. What the board and management need to be additionally prepared for is *__CYBER RESILIENCE!!__* How do we survive when a cyber crisis hits us? Some questions to be pondered upon, 
 
 * Can we deal with cyber-attacks all by ourselves?
 * Can we continue to operate when there’s a cyber-attack on our supply chain? 
@@ -81,23 +84,23 @@ If you align with your organization’s goals then understand the impact of cybe
 
 ## Consumer, Citizen 
 
-This is us, well most of us, and we're at the receiving end. Many of us don't even think what's at stake or what's the impact and simple reason is immediacy – there's no immediate feel. The hacking and ransomware news sounds like science fiction. And general reaction, if any, is no different than how we react to news of killings happening in a country which is 1000 miles away. But the Internet has no boundaries.  [The instances of hackers targeting individuals are few but results are stressful](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/). 
+This is us, well most of us, and we're at the receiving end. Many of us don't even think about what's at stake or what's the impact and the simple reason is immediacy – there's no immediate feel. The hacking and ransomware news sounds like science fiction. And the general reaction, if any, is no different than how we react to news of killings happening in someplace 1000 miles away. But the Internet has no boundaries.  [The instances of hackers targeting individuals are few but results are stressful](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/). 
 
 
-This is a big topic. You are directly impacted when your credit card details are stolen but you're equally, or more, affected when you private data is stolen. Many of us still don't care about it but the data has lot of value for companies and bad guys who're targeting you as their "customer". As an example, hackers targeting someone who's crazy about bowling with a phishing email as invitation to participate in upcoming exclusive competition. Fortunately, companies, governments and regulatory bodies have been continuously evolving. And there are few simple measures which can elevate your cybersecurity preparedness quotient. 
+This is a big topic. You are directly impacted when your credit card details are stolen but you're equally, or more, affected when your private data is stolen. Many of us still don't care about it but the data has a lot of value for companies and bad guys who're targeting you as their "customer". As an example, hackers targeting someone who's crazy about bowling with a phishing email as an invitation to participate in an upcoming exclusive competition. Fortunately, companies, governments and regulatory bodies have been increasingly trying to do the right thing. And few simple measures can elevate your cybersecurity preparedness quotient.
 
 <div class="Image__Small">
   <img src="./images/stay-safe-on-internet.jpg" alt="Image about staying safe on Internet" />
   <figcaption>Staying Safe on Internet</figcaption>
 </div>
 
-* Don't sweat too  much about changing passowrds frequently if your quality of passwords is high. Have long but memorable passwords, use phrases if that helps. 
-* ALWAYS Use multi-factor authentications such as SMS one-time passwords or, better, phone based authenticators such as Authy, Google Authenticator, Microsoft Authenticator etc. where the service allows. Specially protect your emails as they're gateway to lot of details about yourself. 
-* Use password managers to remember passwords for you. Many reputed password managers offer free service such as Bitwarden, lastpass etc. You can also use web browser's in-built password manager e.g. Chrome, Firefox etc. 
-* Use reputed email service such as gmail or outlook which has a much better spam filtering as compared to let's say yahoo. 
-* Keep software up-to-date – your laptops, phones, tablets etc.  
-* Be vigilant about where you're clicking or what you're installing.
-* Avoid clicking on email links, prefer searching for a business or item on Google or Bing directly.
+* Don't sweat too much about changing passwords frequently if your quality of passwords is high. Have long but memorable passwords, use phrases if that helps. 
+* ALWAYS use multi-factor authentications such as SMS one-time passwords or, better, phone-based authenticators such as Authy, Google Authenticator, Microsoft Authenticator etc. Especially, protect your emails as emails are the gateway to a lot of details and various other services you use.
+* Use password managers to remember passwords for you. Many reputed password managers offer free service such as Bitwarden, Lastpass etc. You can also use the web browser's in-built password manager e.g. Chrome, Firefox etc. 
+* Use reputed email service such as Gmail or Outlook which has a much better spam filtering as compared to let's say yahoo. 
+* Keep software up-to-date – your laptops, phones, tablets etc. 
+* Be vigilant about where you're clicking or what you're installing. 
+* Avoid clicking on email links, prefer searching for a business or item on Google or Bing directly. 
 
 Like everything, cybersecurity preparedness is also evolving. We learn as we go along. In that spirit, finishing with the joke below. 
 
